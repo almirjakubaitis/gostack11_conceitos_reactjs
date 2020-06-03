@@ -11,7 +11,7 @@
 
 
 <blockquote>
-This application connects to the API created earlier, allowing you to list portfolio repositories, add and delete new repositories.
+This application connects to the API created earlier, allowing to list portfolio repositories, add and delete new repositories.
 </blockquote>
 
   
